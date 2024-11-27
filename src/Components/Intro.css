@@ -1,0 +1,25 @@
+.intro {
+  align-items: center;
+  padding: 40px 8em 1em;
+  text-align: left;
+}
+
+.intro h1 {
+  font-size: rem;
+  color: #1b2430;
+  font-weight: 800;
+  font-family: "Verdana", sans-serif;
+}
+
+.intro p {
+  font-size: 1.2rem;
+  color: #333;
+  margin-top: 10px;
+  margin-left: 5px;
+}
+
+.intro hr {
+  width: 50px;
+  margin: 20px 5px;
+  border: 2px solid black;
+}
